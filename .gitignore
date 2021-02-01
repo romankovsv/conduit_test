@@ -1,0 +1,7 @@
+allure-results/**
+.allure/**
+.idea
+/target/
+.idea/compiler.xml
+.idea/qa-auto-test.iml
+*.iml
